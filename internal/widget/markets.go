@@ -5,8 +5,8 @@ import (
 	"html/template"
 	"time"
 
-	"github.com/pratiek123/glance/internal/assets"
-	"github.com/pratiek123/glance/internal/feed"
+	"github.com/glanceapp/glance/internal/assets"
+	"github.com/glanceapp/glance/internal/feed"
 )
 
 type Markets struct {
