@@ -27,6 +27,7 @@
 
     --color-primary: hsl(43, 50%, 70%);
     --color-positive: var(--color-primary);
+    --color-pratiek: hsl(145, 63%, 49%);
     --color-negative: hsl(0, 70%, 70%);
     --color-background: hsl(var(--bghs), var(--bgl));
     --color-widget-background-hsl-values: var(--bghs), calc(var(--bgl) + 1%);
