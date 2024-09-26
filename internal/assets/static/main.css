@@ -1517,7 +1517,8 @@ details[open] .summary::after {
     background: linear-gradient(0deg, var(--color-widget-background) 10%, transparent);
 }
 
-@media (max-width: 1190px) {
+/* @media (max-width: 1190px) { */
+@media (max-width: 1000px) {
     .header-container {
         display: none;
     }
